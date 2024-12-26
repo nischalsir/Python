@@ -34,5 +34,5 @@ Want to learn Python too? Follow these steps:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/python-learning-journey.git
-   cd python-learning-journey
+   git clone https://github.com/nischalsir/python.git
+   cd python
